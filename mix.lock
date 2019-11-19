@@ -1,0 +1,9 @@
+%{
+  "csv": {:hex, :csv, "2.0.0", "c66fea89ba7862b94901baf0871285e9b73cad89c5fdb57a6386d2adcf29593e", [:mix], [{:parallel_stream, "~> 1.0.4", [hex: :parallel_stream, repo: "hexpm", optional: false]}], "hexpm"},
+  "dep_from_git": {:git, "https://github.com/dyslabpro/emlt.git", "813d2e30a725d3d0ee521b6bd372de360f61beff", []},
+  "elixir_make": {:hex, :elixir_make, "0.6.0", "38349f3e29aff4864352084fc736fa7fa0f2995a819a737554f7ebd28b85aaab", [:mix], [], "hexpm"},
+  "emlt": {:git, "https://github.com/dyslabpro/emlt.git", "813d2e30a725d3d0ee521b6bd372de360f61beff", []},
+  "math": {:hex, :math, "0.3.0", "e14e7291115201cb155a3567e66d196bf5088a6f55b030d598107d7ae934a11c", [:mix], [], "hexpm"},
+  "matrex": {:hex, :matrex, "0.6.8", "ccb491e661bae7931ee6b0e68f5e1cd28528e5360a59bc3ab4d759b89be1701e", [:make], [{:elixir_make, "~> 0.4", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm"},
+  "parallel_stream": {:hex, :parallel_stream, "1.0.6", "b967be2b23f0f6787fab7ed681b4c45a215a81481fb62b01a5b750fa8f30f76c", [:mix], [], "hexpm"},
+}
